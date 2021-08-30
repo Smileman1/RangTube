@@ -4,3 +4,7 @@
 Youtube API를 이용해서 다양한 분야의 영상을 가져온 뒤 카테고리별 인기 동영상 추천 및 부가 기능 제공 서비스
 
 
+## :earth_asia:화면 구성도
+
+![image-20210830221117652](C:\Users\ejrwn\AppData\Roaming\Typora\typora-user-images\image-20210830221117652.png)
+
