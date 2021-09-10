@@ -14,7 +14,7 @@ Youtube API를 이용해서 다양한 분야의 영상을 가져온 뒤 카테�
 - [Fetch API](https://developer.mozilla.org/ko/docs/Web/API/Fetch_API)
 - [Youtube API](https://developers.google.com/youtube/v3/getting-started?hl=ko)
 - [StyleSheet](https://developer.mozilla.org/ko/docs/Web/API/StyleSheet)
-- [Intellij IDEA](https://www.jetbrains.com/ko-kr/idea)
+
 
 ## :earth_asia: 프로젝트 포커스
 - 테스트 케이스에 있는 사항을 정확히 테스트해보기 위해 노력하였습니다.<br>
